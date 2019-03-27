@@ -35,7 +35,7 @@ public class BrinaryNum {
 		int x = 0;
 		for (int i = 0; i < str.length(); i++) {
 			if (str.substring(i, i + 1).equals("1")) {
-				++x;// ÏÈ×Ô¼Óºó¸³Öµ£»x++ÏÈ¸³Öµºó×Ô¼Ó
+				++x;//å…ˆè‡ªåŠ å†èµ‹å€¼
 			}
 
 		}
